@@ -10,7 +10,6 @@ if (index.name === "Susan") {
 
 
 var index = require("./index.js")
- console.log(index.height)
 
 if (index.height === 74) {
     console.log("The height is correct")
